@@ -9,7 +9,7 @@ import base64
 import secrets
 import json
 from datetime import datetime
-
+  
 SALT_SIZE = 16
 KEY_SIZE = 32
 ITERATIONS = 100_000
