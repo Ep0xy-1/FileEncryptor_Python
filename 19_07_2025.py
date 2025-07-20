@@ -14,7 +14,7 @@ SALT_SIZE = 16
 KEY_SIZE = 32
 ITERATIONS = 100_000
 VAULT_FILE = "password_vault.dat"
-
+ 
 class FileEncryptorApp:
     def __init__(self, root):
         self.root = root
