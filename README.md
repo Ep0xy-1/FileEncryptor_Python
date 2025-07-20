@@ -16,7 +16,7 @@ A production-ready GUI application built in Python using Tkinter that allows you
 | 🧰 GUI | Intuitive interface using `tkinter`, `tk.simpledialog`, `tk.messagebox`, and `ttk.Notebook` |
 
 ---
-
+ 
 ## 🛡️ How It Works
 
 - 🔑 A password is requested for encryption. You may save it afterward.
