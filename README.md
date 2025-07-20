@@ -1,5 +1,3 @@
-# FileEncryptor_Python
-
 # 🔐 Secure File Encryptor + Vault (Python + Tkinter)
 
 A production-ready GUI application built in Python using Tkinter that allows you to **encrypt and decrypt files** securely using **AES-256-GCM**, and manage your credentials via a **password vault** protected by a **master password**.
